@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">Tugas3</string>
+        <string name="login">Login</string>
+        <string name="to_register">Register</string>
+        <string name="email_hint">Enter your email</string>
+        <string name="password_hint">Enter your password</string>
+        <string name="hello_message">Hello, %1$s!</string>
+        <string name="enter_name">Enter your name</string>
+        <string name="submit">Submit</string>
+        <string name="register">Register</string>
+</resources>
